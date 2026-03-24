@@ -16,7 +16,7 @@ pinout:
   # Inputs
   ui[0]: "A"
   ui[1]: "B"
-  ui[2]: "Con"
+  ui[2]: "Cin"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
